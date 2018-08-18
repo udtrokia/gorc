@@ -1,0 +1,5 @@
+
+GORC
+====
+
+Notes for golang.
